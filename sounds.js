@@ -11,7 +11,12 @@ taken from https://www.myinstants.com/en/trending/us/
 */
 export const sounds =
     // SPLITTER ---------------
-[
+  [
+    {
+        "name": "Goblin boohoo",
+        "color": "rgb(0, 255, 51)",
+        "mp3": "/media/sounds/emotes_goblin_boohoo_dl.mp3"
+    },
     {
         "name": "VINE BOOM SOUND",
         "color": "rgb(255, 0, 0)",
